@@ -1,0 +1,24 @@
+[project]
+name = "angaa-ai"
+version = "0.0.1"
+authors = [
+  { name="Raymond Maugé", email="rmauge@gmail.com" },
+]
+description = "An open alternative to the Open AI SDK"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/rmauge/angaa
+"
+Issues = "https://github.com/rmauge/angaa/issues"
+
+exclude = [
+    ".venv",
+]

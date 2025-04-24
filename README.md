@@ -12,7 +12,7 @@
     <a href="https://github.com/rmauge/angaa"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rmauge/angaa/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/rmauge/angaa/issues/new?labels=bug&template=bug-report---.md">Angaa Issues</a>
     &middot;
     <a href="https://github.com/rmauge/angaa/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
