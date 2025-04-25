@@ -1,8 +1,4 @@
 import json
-import urllib
-import urllib.request
-from urllib.error import HTTPError, URLError
-
 from angaa.entities.message import DeveloperMessage, SystemMessage, UserMessage
 
 
